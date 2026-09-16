@@ -1,0 +1,6 @@
+[submodule "aidd-template-lean"]
+	path = aidd-template-lean
+	url = https://github.com/kyto64/aidd-template-lean.git
+[submodule "aidd-template-scale"]
+	path = aidd-template-scale
+	url = https://github.com/kyto64/aidd-template-scale.git
