@@ -5,7 +5,7 @@ Development workspace for two GitHub template repositories, managed as **git sub
 | Submodule | Purpose | GitHub template |
 |-----------|---------|-----------------|
 | [aidd-template-lean/](./aidd-template-lean/) | Minimal AI-driven development template | `kyto64/aidd-template-lean` |
-| [aidd-template-scale/](./aidd-template-scale/) | lean + VitePress, UI/E2E skills, lefthook, Dependabot | `kyto64/aidd-template-scale` |
+| [aidd-template-scale/](./aidd-template-scale/) | lean + VitePress, UI/E2E skills, lefthook, Dependabot (opt-in) | `kyto64/aidd-template-scale` |
 
 **This parent repo is not a template.** Adopters should use **Use this template** on lean or scale directly.
 
