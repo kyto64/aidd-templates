@@ -52,5 +52,9 @@ bash scripts/assemble-from-lean.sh ../aidd-template-lean
 
 ## GitHub templates
 
-- lean and scale are **private template repositories** (`is_template: true`).
-- Public visibility can be changed later per repository in GitHub Settings.
+- lean and scale are **public GitHub template repositories** (`is_template: true`).
+- Use **Use this template** on [aidd-template-lean](https://github.com/kyto64/aidd-template-lean) or [aidd-template-scale](https://github.com/kyto64/aidd-template-scale) to start a new project.
+
+## License
+
+MIT — see [LICENSE](./LICENSE).
